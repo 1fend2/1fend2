@@ -11,7 +11,7 @@ print("파이썬 출력!")
 
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=1fend2)](https://github.com/1fend2)　　　　　　　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1fend2)](https://github.com/1fend2/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=1fend2)](https://github.com/1fend2)　　　　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1fend2)](https://github.com/1fend2/github-readme-stats)
 
 
 
